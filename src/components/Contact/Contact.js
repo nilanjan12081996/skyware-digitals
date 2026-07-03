@@ -21,7 +21,9 @@ export default function Contact() {
     setErrorMessage('');
 
     try {
-      const response = await fetch('/api/contact', {
+      // Using the deployed Render backend URL directly
+      const API_URL = 'https://skyware-backend.onrender.com';
+      const response = await fetch(`${API_URL}/api/contact`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
