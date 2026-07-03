@@ -41,7 +41,16 @@ export async function POST(request) {
     };
 
     // Send the email
-    await transporter.sendMail(mailOptions);
+    await new Promise((resolve, reject) => {
+      transporter.sendMail(mailOptions, (err, info) => {
+        if (err) {
+          console.error('Error sending email:', err);
+          reject(err);
+        } else {
+          resolve(info);
+        }
+      });
+    });
 
     return NextResponse.json({ success: true, message: 'Email sent successfully!' }, { status: 200 });
   } catch (error) {
