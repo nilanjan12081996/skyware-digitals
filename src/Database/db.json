@@ -1,0 +1,244 @@
+{
+  "companyInfo": {
+    "name": "Skyware Digital",
+    "email": "dskyware@gmail.com",
+    "phone": "+91 7596839144",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/skyware-digital-6b7251400?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com"
+    }
+  },
+  "hero": {
+    "title": "THE AI REVOLUTION",
+    "subtitle": "Driving the Future. We help startups and businesses build highly scalable web applications.",
+    "ctaText": "Hire a Developer"
+  },
+  "about": {
+    "description": "We are a full-service digital agency specializing in building scalable web and mobile applications. We handle everything from conceptual design to production-ready deployment with a mission to deliver top-tier technical excellence.",
+    "list": [
+      "Custom Software Development",
+      "SaaS Product Engineering",
+      "Enterprise Cloud Solutions",
+      "AI & Machine Learning Integration"
+    ],
+    "techStack": [
+      "React",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "MySQL",
+      "Spring Boot",
+      "WordPress",
+      "Generative AI",
+      "Python",
+      "Django",
+      "Flask",
+      "PHP Laravel",
+      "React Native"
+    ]
+  },
+  "team": [
+    {
+      "name": "Sourav Sarker",
+      "role": "CEO",
+      "expertise": [
+        "HTML",
+        "CSS",
+        "JQuery",
+        "Wordpress",
+        "Shopify(Website)",
+        "Leadership",
+        "Strategy",
+        "Web Standards"
+      ],
+      "bio": "Visionary leader driving Skyware Digital's mission to revolutionize the digital landscape."
+    },
+    {
+      "name": "Koushik Mondal",
+      "role": "CTO, Project Manager",
+      "expertise": [
+        "Full Stack Developer with System Architect",
+        "PHP Laravel",
+        "Node.js",
+        "Python",
+        "Java"
+      ],
+      "bio": "Backend architect with deep expertise in building robust and scalable server-side systems."
+    },
+    {
+      "name": "Subhankar Das",
+      "role": "Director",
+      "expertise": [
+        "AI/ML Expert",
+        "Node.js",
+        "Python",
+        "Machine Learning",
+        "AI Automation"
+      ],
+      "bio": "Leading our AI initiatives with a focus on integrating intelligence into modern applications."
+    },
+    {
+      "name": "Nilanjan Dasgupta",
+      "role": "Director",
+      "expertise": [
+        "Full Stack Developer",
+        "Java",
+        "Node JS",
+        "React JS",
+        "React Native",
+        "Next JS"
+      ],
+      "bio": "Versatile developer bridging the gap between mobile and web ecosystems with high-performance code."
+    },
+    
+    {
+      "name": "Soumydip Das",
+      "role": "Senior System Analyst & Full Stack Developer",
+      "expertise": [
+        "JAVA",
+        "PHP",
+        "Node JS",
+        "React JS",
+        "Python",
+        "Generative AI"
+      ],
+      "bio": "Server-side specialist focused on performance optimization and secure API development."
+    },
+    {
+      "name": "Souvick Panja",
+      "role": "Frontend Developer and UI expert",
+      "expertise": [
+        "React JS",
+        "Next JS",
+        "React Native",
+        "N8N",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+      ],
+      "bio": "Frontend specialist and UI architect. From crafting pixel-perfect components in Tailwind CSS to building cross-platform mobile apps with React Native."
+    },
+     {
+      "name": "Tonmoy Karmakar",
+      "role": "HOD of Hardware Automation & Project Manager",
+      "expertise": [
+       "PCB Design",
+      "Hardware Lifecycle Management",
+      "Industrial Automation",
+      "Strategic Project Planning",
+      "System Maintenance & Optimization",
+      "Team Leadership & Resource Allocation"
+      ],
+      "bio": "Strategic lead specializing in the intersection of hardware innovation and automation. With deep expertise in PCB design and system maintenance."
+    }
+  ],
+  "services": [
+    {
+      "title": "Web Application Development",
+      "description": "Robust, scalable, and secure web applications tailored to your business needs."
+    },
+    {
+      "title": "SaaS Platforms",
+      "description": "End-to-end SaaS application design, development, and maintenance."
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Native and cross-platform mobile apps for Android and iOS."
+    },
+    {
+      "title": "Cloud Application Development",
+      "description": "Cloud-native apps built on modern infrastructure."
+    },
+    {
+      "title": "API Development",
+      "description": "Secure RESTful and GraphQL APIs to connect your services seamlessly."
+    },
+    {
+      "title": "Database Development",
+      "description": "Optimized database design, implementation, and management."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Jenkins",
+      "role": "CEO, TechNova Startups",
+      "rating": 5,
+      "comment": "Skyware Digital delivered our SaaS platform way ahead of schedule. Their attention to dynamic animated designs and clean code is unparalleled. Highly recommended 6-member team!"
+    },
+    {
+      "id": 2,
+      "name": "David Kumar",
+      "role": "Founder, RetailFlow",
+      "rating": 5,
+      "comment": "Amazing experience working with Skyware. We hired a dedicated React developer from them and the process was smooth and professional."
+    },
+    {
+      "id": 3,
+      "name": "Elena Rostova",
+      "role": "CTO, CloudScale Inc.",
+      "rating": 5,
+      "comment": "The overall architecture they set up for our Next.js project is very scalable. Their APIs are robust, and the communication was transparent throughout."
+    }
+  ],
+  "careers": [
+    {
+      "id": "java-dev",
+      "title": "Java Developer",
+      "postDate": "April 15, 2024",
+      "type": "Full-time",
+      "location": "Remote / Office",
+      "responsibilities": [
+        "Develop high-quality, scalable backend services using Java and Spring Boot.",
+        "Design and implement RESTful APIs to integrate with frontend applications.",
+        "Optimize application performance and ensure system reliability.",
+        "Collaborate with cross-functional teams to define and ship new features."
+      ],
+      "requirements": [
+        "3+ years of professional experience in Java development.",
+        "Strong knowledge of Spring Framework / Spring Boot.",
+        "Experience with relational databases (MySQL, PostgreSQL).",
+        "Understanding of microservices architecture and cloud platforms."
+      ]
+    },
+    {
+      "id": "digital-marketing",
+      "title": "Digital Marketing Specialist",
+      "postDate": "April 16, 2024",
+      "type": "Full-time",
+      "location": "Office",
+      "responsibilities": [
+        "Develop and execute comprehensive digital marketing strategies.",
+        "Manage SEO/SEM, email marketing, and social media campaigns.",
+        "Analyze web traffic and build reports on marketing performance metrics.",
+        "Identify trends and insights to optimize spend and performance."
+      ],
+      "requirements": [
+        "Proven experience in digital marketing or a similar role.",
+        "Familiarity with Google Analytics, Ads, and social media tools.",
+        "Excellent written and verbal communication skills.",
+        "Creativity in identifying target audiences and devising digital campaigns."
+      ]
+    },
+    {
+      "id": "business-analyst",
+      "title": "Business Analyst",
+      "postDate": "April 17, 2024",
+      "type": "Full-time",
+      "location": "Remote / Office",
+      "responsibilities": [
+        "Analyze business processes and identify areas for improvement.",
+        "Gather and document business requirements from stakeholders.",
+        "Translate business needs into technical specifications for developers.",
+        "Asssist in project management and ensure deadlines are met."
+      ],
+      "requirements": [
+        "Experience in business analysis or project management.",
+        "Strong analytical and problem-solving skills.",
+        "Ability to communicate complex information to both technical and non-technical audiences.",
+        "Proficiency in documentation and reporting tools."
+      ]
+    }
+  ]
+}
